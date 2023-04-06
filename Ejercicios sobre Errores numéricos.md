@@ -8,8 +8,10 @@ Ejercicios
 su volumen sea conocido con un error relativo menor de 0.01%? 
 ¿Cuantos decimales es necesario emplear para el valor de $\pi$?
 
-Soluciones: $\varepsilon_{r}(R) \leq \frac{1}{3} \cdot
-10^{-4}$. 
+Soluciones: 
+
+$$ \epsilon_{r}(R) \leq \frac{1}{3} \cdot 10^{-4}$$. 
+
 El número $\pi$ debe expresarse al menos con seis cifras decimales.
 
 2. Supongamos una barra de hierro de longitud l y sección rectangular 
